@@ -6,7 +6,7 @@ mission "Free Kitten"
 	passengers 3
 	cargo "luggage and furniture" 1
 	to offer
-		random < 99
+		random < 11
 		"cargo space" > 0
 		"passenger space" > 2
 	source "New Austria"
