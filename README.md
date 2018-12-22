@@ -3,6 +3,8 @@ A plugin for the open source game Endless Sky.
 
 [Endless Sky][endlesssky] is an open source game. The free kitten plugin offers a one-time mission with a unique reward.
 
+Adds a quest that pays you with a kitten. The quest starts in New Austria.
+
 # Installation
 
 Create  "plugins" folder if it does not already exists
